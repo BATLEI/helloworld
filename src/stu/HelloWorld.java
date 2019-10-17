@@ -13,6 +13,7 @@ public class HelloWorld {
         for (Map.Entry<Object, Object> entry : map.entrySet()) {
             System.out.println(entry.getValue());
             System.out.println("呵呵");
+            System.out.println("666");
         }
 
     }
